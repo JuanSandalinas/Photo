@@ -5,7 +5,7 @@
 - DW Ziegler et al., 2005 -- The neurocognitive effects of alcohol on adolescents and college students
 # Figure 1
 
-![Figure 1](https://github.com/JuanSandalinas/Photo/blob/main/sample_figure.png?raw=true)
+![Figure 1](https://github.com/JuanSandalinas/Photo/blob/main/Beer.png?raw=true)
 
 In figure 1 we can observe the ratio of the beer in the Nl and Wo per year. 
 The correlation of this ratio per year is 0.965, indicating a linear decreasing function of the Nl/Wo ratio each year.
